@@ -10,6 +10,7 @@ namespace Vidly.Controllers
     {
         public ActionResult Index()
         {
+            sdsdfs
             return View();
         }
 
